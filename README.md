@@ -20,6 +20,10 @@ Flood hazard assessment often relies on coarse administrative or hydrologic unit
 ## Results
 - Total flood-prone points identified: **565**
 - Study counties highlighted for focused analysis
+## Visualizations
+
+### Statewide Flood-Prone Points (Iowa)
+![Flood-prone points across Iowa](figures/map_overview.png)
 
 ## Code
 - Google Earth Engine script: `gee/iowa_flood_points.js`
