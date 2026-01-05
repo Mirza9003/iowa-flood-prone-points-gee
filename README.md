@@ -1,6 +1,6 @@
 # Flood-Prone Point Mapping in Iowa (Google Earth Engine)
 
-![Figure 1. Flood-prone points across Iowa](iowa_floodpoints.png)
+![Figure 1. Flood-prone points across Iowa](IA_FP.png)
 
 This project maps flood-prone locations across Iowa using long-term surface water
 occurrence from **JRC Global Surface Water** and topographic context from
