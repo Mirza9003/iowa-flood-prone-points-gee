@@ -2,7 +2,6 @@
 
 ![Flood-prone points across Iowa](https://raw.githubusercontent.com/Mirza9003/iowa-flood-prone-points-gee/main/figures/iowa_floodpoints.png)
 
-
 This project maps flood-prone locations across Iowa using long-term surface water
 occurrence from **JRC Global Surface Water** and topographic context from
 **USGS 3DEP (10 m)**. Flood-prone areas are represented as centroid-based points
