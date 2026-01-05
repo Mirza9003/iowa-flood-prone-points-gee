@@ -9,13 +9,11 @@
   </tr>
 </table>
 
+![Spatial distribution of flood-prone points across Iowa](IA_FP.png)
 
 **Figure 1.** Spatial distribution of flood-prone points across Iowa derived from long-term
 surface water occurrence (JRC Global Surface Water v1.4) and topographic context from
 the USGS 3DEP (10 m) digital elevation model.
-
-![Spatial distribution of flood-prone points across Iowa](IA_FP.png)
-
 ---
 
 ## Scientific Motivation
