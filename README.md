@@ -1,6 +1,6 @@
 # Flood-Prone Point Mapping in Iowa (Google Earth Engine)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mirza9003/iowa-flood-prone-points-gee/main/figures/iowa_floodpoints.png" width="95%">
+  <img src="https://github.com/Mirza9003/iowa-flood-prone-points-gee/raw/main/figures/iowa_floodpoints.png" width="95%">
 </p>
 
 
