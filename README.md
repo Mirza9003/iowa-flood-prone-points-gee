@@ -1,13 +1,14 @@
-<table>
-  <tr>
-    <td align="left">
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
       <h1>Flood-Prone Point Mapping in Iowa (Google Earth Engine)</h1>
     </td>
-    <td align="right">
+    <td style="border: none; padding: 0;" align="right">
       <img src="GEE_logo.png" width="90" alt="Google Earth Engine logo"/>
     </td>
   </tr>
 </table>
+
 
 **Figure 1.** Spatial distribution of flood-prone points across Iowa derived from long-term
 surface water occurrence (JRC Global Surface Water v1.4) and topographic context from
