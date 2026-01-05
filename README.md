@@ -2,10 +2,8 @@
 
 ![Figure 1. Flood-prone points across Iowa](IA_FP.png)
 
-This project maps flood-prone locations across Iowa using long-term surface water
-occurrence from **JRC Global Surface Water** and topographic context from
-**USGS 3DEP (10 m)**. Flood-prone areas are represented as centroid-based points
-for rapid spatial screening and visualization.
+As shown in **Figure 1**, this project maps flood-prone locations across Iowa using long-term surface water occurrence from **JRC Global Surface Water** and topographic context from **USGS 3DEP (10 m)**.
+
 
 ## Scientific Motivation
 Flood hazard assessment often relies on coarse administrative or hydrologic units. This workflow demonstrates a scalable, data-driven alternative that identifies persistent water-prone locations directly from satellite observations, supporting exploratory flood risk analysis and GeoAI-based modeling.
